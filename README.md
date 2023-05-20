@@ -1,6 +1,10 @@
 # msba-422-project1-webscrapping
 
-### This is the first individual project I completed in the 422-Data Design & Representation course in the MSBA program at UC Davis
+### Summary
+
+This is the first individual project I completed in the 422-Data Design & Representation course in the MSBA program at UC Davis. 
+
+In this project, I webscrapped ebay.com and automated login process using BeautifulSoup package in Python.
 
 #### Below are the instructions and requirements of the project
 
